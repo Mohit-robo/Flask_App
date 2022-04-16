@@ -1,0 +1,22 @@
+body {
+    background-color:lightsteelblue;
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color:black;
+    font-size: 2.5;
+    font-family: Shanti ;
+}
+
+img {
+    margin: 60px 0 30px 0;
+    width:  900px;
+    border: None;
+    border-radius: 10px;
+}
+
+img:focus {
+    border: solid 50px #00ddec;
+    outline: none;
+}
